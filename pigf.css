@@ -4,6 +4,11 @@
     margin-top: 100px;
 
 }
+ body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, #8dacde, #113ddf);
+  }
 .face{
     height: 280px;
     width: 280px;
